@@ -1,6 +1,6 @@
 {
-    "name": "facebook/graph-sdk",
-    "description": "Facebook SDK for PHP",
+    "name": "kfiatos/graph-sdk",
+    "description": "Facebook SDK for PHP (compatible with PHP 8.0)",
     "keywords": ["facebook", "sdk"],
     "type": "library",
     "homepage": "https://github.com/facebook/php-graph-sdk",
